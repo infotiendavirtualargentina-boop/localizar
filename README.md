@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -173,8 +171,8 @@
 <script id="config">
   // ================== EDITÁ SOLO ESTA PARTE ==================
   const CONFIG = {
-    dogName: "Rocky",                 // nombre del perro
-    ownerPhone: "5491100000000",      // tu WhatsApp con código país, sin + ni espacios (ej: 549 + cod area + numero)
+    dogName: "GALA",                 // nombre del perro
+    ownerPhone: "5493425281841",      // tu WhatsApp con código país, sin + ni espacios (ej: 549 + cod area + numero)
     photoUrl: "",                     // link a una foto (opcional, dejalo vacío si no tenés)
     rewardText: ""                    // ej: "Hay recompensa" (opcional, dejalo vacío si no querés)
   };
